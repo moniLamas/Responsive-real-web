@@ -7,4 +7,4 @@ https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-
 
 See my project:
 
-https://monipeny.github.io/Responsive-real-web/
+https://moniLamas.github.io/Responsive-real-web/
